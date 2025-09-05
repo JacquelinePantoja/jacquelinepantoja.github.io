@@ -10,6 +10,8 @@ links:
     url: "https://github.com/JacquelinePantoja"
   - label: Email
     url: "mailto:jpantoj2@jh.edu"
+  - label: '`r fontawesome::fa("spotify", fill = "mediumvioletred")`'
+    url: "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8?si=795c0eeae5024e16"
 output:
   postcards::trestles
 ---
@@ -31,5 +33,7 @@ B.A. in Public Health | August 2019 - May 2023
 ## Experience
 
 **Kaiser Permanente** | Research Associate I | August 2023 - June 2025
+
+##
 
 
