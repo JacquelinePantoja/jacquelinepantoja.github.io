@@ -1,6 +1,6 @@
 ---
 title: "Jacqueline Pantoja"
-#image: ""
+image: "thumbnail_IMG_2097.jpg"
 links:
   - label: LinkedIn
     url: "http://www.linkedin.com/in/jackie-p-pantoja"
