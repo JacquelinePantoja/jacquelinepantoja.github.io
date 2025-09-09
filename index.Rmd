@@ -12,7 +12,7 @@ links:
     url: "mailto:jpantoj2@jh.edu"
   - label: '`r fontawesome::fa("spotify", fill = "mediumvioletred")`'
     url: "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8?si=795c0eeae5024e16"
-    favicon: "icon_32.ico"
+    favicon: "icon_32.png" 
 output:
   postcards::trestles
 ---
