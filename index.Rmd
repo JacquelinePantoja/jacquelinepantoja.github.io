@@ -17,7 +17,7 @@ links:
     url: "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn?si=64ad29ceedf94c71"
      
 output:
-  postcards::solana
+  postcards::solana 
 ---
  
 ## Bio
