@@ -1,21 +1,23 @@
 ---
 title: "Jacqueline Pantoja"
-image: "thumbnail_IMG_2097.jpg"
+image: "Image_website_April.jpeg"
 favicon: "icon_32.png"
 links:
   - label: LinkedIn
     url: "http://www.linkedin.com/in/jackie-p-pantoja"
+  - label: Resume
+    url: "JacquelinePantoja_Resume.pdf"
   - label: CV
-    url: "CV.pdf"
+    url: "JacquelinePantoja_CV.pdf"
   - label: GitHub
     url: "https://github.com/JacquelinePantoja"
   - label: Email
     url: "mailto:jpantoj2@jh.edu"
   - label: '`r fontawesome::fa("spotify", fill = "mediumvioletred")`'
-    url: "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8?si=795c0eeae5024e16"
+    url: "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn?si=64ad29ceedf94c71"
      
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
@@ -33,6 +35,8 @@ M.H.S. in Public Health | August 2025 - May 2026
 B.A. in Public Health | August 2019 - May 2023
 
 ## Experience
+
+**Maryland Department of Health** | Data Quality Assurance Intern | September 2025 - Present
 
 **Kaiser Permanente** | Research Associate I | August 2023 - June 2025
 
